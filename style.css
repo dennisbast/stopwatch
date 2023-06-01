@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: #3b4149;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Arial, Helvetica, sans-serif, "Lucida Grande";
   height: 100%;
@@ -8,7 +8,7 @@ body {
 .wrapper {
   width: 800px;
   margin: 30px auto;
-  color: #fff;
+  color: #febd69;
   text-align: center;
 }
 
